@@ -1,4 +1,4 @@
-![image](https://github.com/ryanecarr/ryanecarr/assets/23034943/7815b9f3-4ae5-4b4b-8f8f-3780344216d0) ![image](https://github.com/ryanecarr/ryanecarr/assets/23034943/622f5e32-40af-4d30-a6fd-3106b6b25983)
+![image](https://github.com/ryanecarr/ryanecarr/assets/23034943/464eb543-4156-451f-a87c-6813dc1b46ea) ![image](https://github.com/ryanecarr/ryanecarr/assets/23034943/622f5e32-40af-4d30-a6fd-3106b6b25983)
 
 
 ##
