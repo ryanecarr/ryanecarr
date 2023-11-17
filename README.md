@@ -1,4 +1,6 @@
-![image](https://github.com/ryanecarr/ryanecarr/assets/23034943/622f5e32-40af-4d30-a6fd-3106b6b25983)
+![image](https://github.com/ryanecarr/ryanecarr/assets/23034943/c5717792-d5aa-4d13-8805-959789f3387b)
+
+
 
 ##
 I'm an accomplished and experienced professional with a history of success in building web applications and specializing in **front-end engineering**. Passionate about modern web technologies, writing clean code, and solving complex problems. Strategic and solutions-driven, adept in maintaining an agile and adaptable work approach. Committed to creating a culture of excellence, quality, service, and profitability. 
