@@ -1,5 +1,9 @@
-![image](https://github.com/ryanecarr/ryanecarr/assets/23034943/5df4a41e-4a23-4be8-8643-e763b39905ea)
- 
+# Hi, I'm Ryan Carr
+
+**Full Stack Engineer | AI-Accelerated Development**
+
+---
+
 Full stack engineer who builds and ships production applications end to end — React and Angular front ends, serverless backends on Firebase and Google Cloud, and AI-powered features using the Claude API. I use AI-accelerated development workflows daily with tools like Claude Code and GitHub Copilot to deliver rapidly without sacrificing quality. Experienced in designing, building, and deploying enterprise-grade, public-facing applications with clean architecture and a focus on real user impact.
 
 Other places I can be found on the web :earth_americas:
