@@ -36,5 +36,3 @@ Other places I can be found on the web :earth_americas:
 ### AI-Accelerated Development
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanecarr&hide_progress=true)
