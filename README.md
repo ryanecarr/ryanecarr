@@ -1,6 +1,4 @@
-# Hi, I'm Ryan Carr
-
-**Full Stack Engineer | AI-Accelerated Development**
+# Full Stack Engineer | AI-Accelerated Development**
 
 ---
 
