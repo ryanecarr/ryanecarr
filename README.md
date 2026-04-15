@@ -1,4 +1,4 @@
-# Full Stack Engineer | AI-Accelerated Development**
+# Full Stack Engineer | AI-Accelerated Development
 
 ---
 
