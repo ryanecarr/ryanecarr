@@ -6,8 +6,6 @@
 
 React and Angular front ends, serverless backends on Firebase and Google Cloud, and AI-powered features using the Claude API. I use AI-accelerated development workflows daily with tools like Claude Code and GitHub Copilot to deliver rapidly without sacrificing quality. Experienced in designing, building, and deploying enterprise-grade, public-facing applications with clean architecture and a focus on real user impact.
 
-Currently building [Trusted Advisor](https://github.com/ryanecarr/trusted-advisor) — a config-driven platform where conversational AI guides users through complex decisions in domains like auto repair, home improvement, and financial planning.
-
 Other places I can be found on the web :earth_americas:
 * https://ryancarr.dev
 * https://linkedin.com/in/ryanecarr
