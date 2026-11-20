@@ -4,7 +4,7 @@
 
 **I build and ship production applications end to end — from front end to cloud to AI.**
 
-React and Angular front ends, serverless backends on Azure, Firebase, and Google Cloud, and AI-powered features using the Claude API and Foundry Agents. I use AI-accelerated development workflows daily with tools like Claude Code and GitHub Copilot, and Claude with the Figma MCP server to create Figma designs for rapid prototyping. Experienced in designing, building, and deploying enterprise-grade, public-facing applications with clean architecture and a focus on real user impact.
+React and Angular front ends, serverless backends on Azure, Firebase, and Google Cloud, and AI-powered features using the Claude API and Foundry Agents. I use AI-accelerated development workflows daily with tools like Claude Code and GitHub Copilot. CI/CD is a core part of my work, including building and maintaining pipelines that automate testing, builds, and deployments. Experienced in designing, building, and deploying enterprise-grade, public-facing applications with clean architecture and a focus on real user impact.
 
 Other places I can be found on the web :earth_americas:
 * https://ryancarr.dev
@@ -39,9 +39,8 @@ Other places I can be found on the web :earth_americas:
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Foundry Agents](https://img.shields.io/badge/Foundry%20Agents-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ### AI-Assisted Design & Prototyping
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-I use Claude with the Figma MCP server to create Figma designs and rapidly prototype ideas.
