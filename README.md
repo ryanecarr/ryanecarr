@@ -4,7 +4,7 @@
 
 **I build and ship production applications end to end — from front end to cloud to AI.**
 
-React and Angular front ends, serverless backends on Firebase and Google Cloud, and AI-powered features using the Claude API. I use AI-accelerated development workflows daily with tools like Claude Code and GitHub Copilot to deliver rapidly without sacrificing quality. Experienced in designing, building, and deploying enterprise-grade, public-facing applications with clean architecture and a focus on real user impact.
+React and Angular front ends, serverless backends on Azure, Firebase, and Google Cloud, and AI-powered features using the Claude API and Foundry Agents. I use AI-accelerated development workflows daily with tools like Claude Code and GitHub Copilot, and Claude with the Figma MCP server to create Figma designs for rapid prototyping. Experienced in designing, building, and deploying enterprise-grade, public-facing applications with clean architecture and a focus on real user impact.
 
 Other places I can be found on the web :earth_americas:
 * https://ryancarr.dev
@@ -28,6 +28,8 @@ Other places I can be found on the web :earth_americas:
 ### Backend & Cloud
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -36,4 +38,10 @@ Other places I can be found on the web :earth_americas:
 ### AI-Accelerated Development
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Foundry Agents](https://img.shields.io/badge/Foundry%20Agents-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+### AI-Assisted Design & Prototyping
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+I use Claude with the Figma MCP server to create Figma designs and rapidly prototype ideas.
