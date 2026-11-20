@@ -4,7 +4,7 @@
 
 **I build and ship production applications end to end — from front end to cloud to AI.**
 
-I build React and Angular front ends, serverless backends on Azure, Firebase, and Google Cloud, and AI-powered features using the Claude API and Foundry Agents. My experience spans new development with modern technology stacks and AI, as well as modernization of legacy systems. I bring a strong eye for UI/UX to engineering, using Figma and the Claude-to-Figma MCP server to explore concepts, prototype interfaces, and refine intuitive, user-centered experiences. I use AI-accelerated development workflows daily with tools like Claude Code and GitHub Copilot. CI/CD is a core part of my work, including building and maintaining pipelines that automate testing, builds, and deployments. Experienced in designing, building, and deploying enterprise-grade, public-facing applications with clean architecture and a focus on real user impact.
+I build React and Angular front ends, serverless backends on Azure, Firebase, and Google Cloud, and AI-powered features using the Claude API and Foundry Agents. My experience spans new development with modern technology stacks and AI, as well as modernization of legacy systems. I bring a strong eye for UI/UX to engineering, using Figma and the Claude-to-Figma MCP server to explore concepts, prototype interfaces, and refine intuitive, user-centered experiences. I use AI-accelerated development workflows daily with tools like Claude Code and GitHub Copilot. CI/CD is a core part of my work, including using Terraform to manage cloud infrastructure and building pipelines that automate testing, builds, and deployments. Experienced in designing, building, and deploying enterprise-grade, public-facing applications with clean architecture and a focus on real user impact.
 
 Other places I can be found on the web :earth_americas:
 * https://ryancarr.dev
@@ -30,6 +30,7 @@ Other places I can be found on the web :earth_americas:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
